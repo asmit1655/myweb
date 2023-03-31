@@ -95,9 +95,6 @@ ul {
   .cl3{
     position: absolute;
     bottom: -55px;
-    display: flex;
-    flex-direction: column;
-    
   }
   .cl3 img{
     border-radius: 10px;
